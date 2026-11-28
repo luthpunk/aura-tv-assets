@@ -1,0 +1,8 @@
+{
+  "versionCode": 89,
+  "versionName": "1.2.6",
+  "apkUrl": "https://github.com/luthpunk/aura-tv-assets/releases/download/app-update/aura-tv-release.apk",
+  "sha256": "e31b3f7d07abfecb305428b7d5a096460f3a661b4fa26fc1cd4ace5bee4478fa",
+  "fileSize": 7530261,
+  "changelog": "• Dukungan audio AC-3 / E-AC-3 / MP2 / DTS via FFmpeg decoder (mengatasi gambar tanpa suara di STB Android)\n• Pembaruan aplikasi otomatis & bersih saat membuka aplikasi (tanpa tombol, verifikasi SHA-256 & FileProvider)\n• Perbaikan resolusi 50fps Vision+ (SPOTV & Sportstars 720p) & indikator LIVE putih kategori EVENT\n• Hardening keamanan native C++ (JNI_OnLoad, anti-tamper sertifikat, anti-debug TracerPid, header CDN tersembunyi), canary trap & rotasi secret baru"
+}
