@@ -1,8 +1,8 @@
 {
-  "versionCode": 90,
+  "versionCode": 91,
   "versionName": "1.2.6",
   "apkUrl": "https://github.com/luthpunk/aura-tv-assets/releases/download/app-update/aura-tv-release.apk",
-  "sha256": "5508201648e55749216f07cfb9235481b129eacba4161da25091ddab5011d07a",
-  "fileSize": 7530566,
+  "sha256": "fae5cced315b7460e3880f1cb9374dc5e3c0642e11a2d4203a5a044d134b298b",
+  "fileSize": 7530549,
   "changelog": "• Pembaruan aplikasi otomatis langsung saat membuka aplikasi\n• Pilih kategori langsung dari drawer fullscreen di HP (tap nama kategori di bagian atas drawer)\n• Pengaturan baru di Android TV: pilihan posisi Panel Channel (Kanan / Kiri), D-Pad Kiri & Kanan sama-sama membuka panel channel, dan opsi Picture-in-Picture (PiP) saat tekan Home\n• Dukungan audio lebih lengkap (AC-3, E-AC-3, MP2, DTS) untuk mengatasi channel gambar tanpa suara di Android TV / STB\n• Perbaikan tampilan kartu channel (rasio proporsional 3:2) & player portrait (16:9) di berbagai ukuran layar HP\n• Perbaikan mode fullscreen FILL & ZOOM agar penuh melewati area kamera (punch-hole), sementara mode FIT tetap menjaga rasio asli video\n• Perbaikan pilihan kualitas 50fps Vision+ (480p/720p) & indikator LIVE lebih jelas pada kategori EVENT\n• Ukuran aplikasi lebih ringan dan hemat penyimpanan"
 }
